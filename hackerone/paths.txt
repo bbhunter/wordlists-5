@@ -1,6 +1,4 @@
-
-Set-Cookie=test=test
-
+‘UUID
 "--><svg
 "><script>prompt("exr")<
 $
@@ -14803,6 +14801,7 @@ SessionCommand.php
 Session_Management_Cheat_Sheet
 Session_hijacking_attack
 Set-Cookie
+Set-Cookie=test=test
 SetPortalAuthCookie
 SetSI...
 SetSID
@@ -25588,16 +25587,6 @@ zzz.html
 ~victimsusername
 ~www.google.com
 ~your_username
-§§
-Â§38Â§.json
-Â§testÂ§@live.com
-âââ
-ââââ.php
-âââââ
-âââââââ
-ââââââââ
-âââââââââ
-‘UUID
 █
 ███
 ███&
@@ -25622,3 +25611,12 @@ zzz.html
 ██████████dashboard_handler.php
 ███████████
 ███████████████████
+§§
+Â§38Â§.json
+Â§testÂ§@live.com
+âââ
+ââââ.php
+âââââ
+âââââââ
+ââââââââ
+âââââââââ

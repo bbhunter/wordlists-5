@@ -1,4 +1,3 @@
-php.ini
 .DS_Store
 .aws/
 .git/
@@ -1586,6 +1585,7 @@ photogallery
 photography
 photos
 php
+php.ini
 phpBB2
 phpMyAdmin
 phpinfo
