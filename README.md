@@ -36,7 +36,7 @@ hackerone/parameter.txt | | 2089
 ### Download
 
 ```
-$ wget https://nozaki.io/wordlists
+$ wget https://nozaki.io/wordlists.tar.gz
 ```
 
 ---
