@@ -33,14 +33,6 @@ hackerone/parameter.txt | | 2089
 
 ---
 
-### Download
-
-```
-$ wget https://nozaki.io/wordlists.tar.gz
-```
-
----
-
 ### Contribution
 
 - Your contributions and suggestions are heartily ♥ welcome. [See here the contribution guidelines.](/.github/CONTRIBUTING.md) Please, report bugs via [issues page](https://github.com/NozakiLabs/wordlists/issues) and for security issues, see here the [security policy.](/SECURITY.md) (✿ ◕‿◕)
