@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center"><b>Wordlists</b></h3>
-  <p align="center">A catalog of wordlists to use with Nozaki or other fuzzer</p>
+  <p align="center">A catalog of wordlists to use with Nozaki Fuzzer</p>
   <p align="center">
     <a href="/LICENSE.md">
       <img src="https://img.shields.io/badge/license-MIT-blue.svg">
